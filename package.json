@@ -1,5 +1,5 @@
 {
-  "name": "bpanel-transaction-detail",
+  "name": "@mediciland/bpanel-transaction-detail",
   "version": "1.0.0",
   "description": "Easily view the details of a Transaction",
   "main": "dist/index.js",
